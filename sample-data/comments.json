@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c1",
+    "articleId": "1",
+    "authorName": "Sarah M.",
+    "authorAvatarUrl": "https://i.pravatar.cc/150?img=1",
+    "isJournalist": false,
+    "isPick": true,
+    "isModerated": false,
+    "body": "This is an excellent analysis of global markets. The surge in AI investments really underpins the whole trend.",
+    "createdAt": "2026-07-30T19:00:00Z",
+    "replies": [
+      {
+        "id": "c1_1",
+        "articleId": "1",
+        "authorName": "Jane Doe",
+        "authorAvatarUrl": "https://i.pravatar.cc/150?img=2",
+        "isJournalist": true,
+        "isPick": false,
+        "isModerated": false,
+        "body": "Thanks Sarah! We will be following up with an in-depth breakdown next week.",
+        "createdAt": "2026-07-30T19:30:00Z"
+      }
+    ]
+  }
+]
